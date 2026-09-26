@@ -1,9 +1,38 @@
-<h1 align="center">Hi 👋, I'm Poorna H</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Poorna 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 👨‍💻 Developer | 💡 Problem Solver | 🚀 Tech Enthusiast
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+I'm Poorna, a passionate developer who enjoys building useful projects, learning new technologies, and turning ideas into reality through code.
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: JavaScript, Python, Java, C++
+- 🌐 Web: HTML, CSS, React, Node.js
+- 🗄️ Databases: MySQL, MongoDB
+- 🔧 Tools: Git, GitHub, VS Code
+- ☁️ Cloud: AWS
+
+## 🚀 What I'm Working On
+
+- Building interesting web applications
+- Improving my problem-solving skills
+- Exploring new technologies
+- Contributing to open-source projects
+
+## 📊 GitHub Stats
+
+![Poorna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/)
+- 📧 Email: your-email@example.com
+- 🌐 Portfolio: [Your Portfolio](https://example.com)
+
+---
+
+⭐️ From [Poorna](https://github.com/YOUR_USERNAME)
